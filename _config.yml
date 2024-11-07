@@ -1,4 +1,3 @@
-theme: minima
-
-title: Fs3cs0ciety Blog Posts
-author: d3dsec
+theme: jekyll-theme-cayman  # Or your chosen Jekyll theme
+plugins:
+  - jekyll-feed
